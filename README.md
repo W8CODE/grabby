@@ -16,7 +16,8 @@ step 4 - run the script, and watch the magig happen :)
 
 ## credits
 addi00000
-https://github.com/zile42O/
+&
+Zile420
 
 original script was made by these two devs, im just making a updated tutorial on how to use.
 
